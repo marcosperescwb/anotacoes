@@ -21,7 +21,6 @@
 - **git remote -v** - Verifica repositório Github
 
 - **git push origin master** - Empurra arquivos ao Github
+- **git pull origin master** - Puxa os arquivos do Github para corrigir conflitos
 
 - **git clone [url]** - Baixar o repositório inteiro de um projeto (o git estará apontado para o repositório de origem)
-
-  
