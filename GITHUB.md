@@ -11,5 +11,6 @@
 - **git remote add orgin [url]** - Faz o link entre o Git e o Github
 - **git remote -v** - Verifica repositório Github
 - **git push origin master** - Empurra arquivos ao Github
+- **git pull origin master** - Puxa os arquivos do Github para corrigir conflitos
 
   
